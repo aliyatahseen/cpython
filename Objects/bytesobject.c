@@ -11,7 +11,7 @@
 #include "pycore_global_objects.h"  // _Py_GET_GLOBAL_OBJECT()
 #include "pycore_initconfig.h"    // _PyStatus_OK()
 #include "pycore_long.h"          // _PyLong_DigitValue
-#include "pycore_object.h"        // _PyObject_GC_TRACK
+#include "pycore_object.h"        // _PyObject_GC_TRACK_aliya
 #include "pycore_pymem.h"         // PYMEM_CLEANBYTE
 #include "pycore_strhex.h"        // _Py_strhex_with_sep()
 
